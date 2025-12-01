@@ -22,7 +22,7 @@ Features:
 - `student_scores.csv` — example dataset (replace with your own)
 - `demo_outputs/` — output folder for demo (plots, summary CSV, saved model)
 
-## Resume / Interview points
+
 - Implemented end-to-end analytics pipeline: data ingestion → cleaning → analysis → visualization → basic ML.
 - Used Pandas/NumPy for ETL and statistics, Matplotlib for visualization, and scikit-learn for modeling.
 - Wrote interactive CLI for demo and a non-interactive script for reproducible demo results.
